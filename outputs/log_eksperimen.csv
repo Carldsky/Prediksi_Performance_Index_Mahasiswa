@@ -1,0 +1,12 @@
+Waktu,ID,Model,Jenis,Set fitur,Parameter,Validasi,CV RMSE,CV R2,Test RMSE,Test R2,random_state,Data latih/uji
+2026-11-05 20:26,E01,Dummy (mean),Baseline,dasar,strategy=mean,"5-fold KFold (shuffle, rs=42)",19.1881,-0.0011,19.301,-0.001,42,7898/1975
+2026-11-05 20:26,E02,Linear Regression (Previous Scores saja),Baseline,satu_fitur,1 fitur,"5-fold KFold (shuffle, rs=42)",7.7262,0.8377,7.8173,0.8358,42,7898/1975
+2026-11-05 20:26,E03,Linear Regression,Kandidat,dasar,default,"5-fold KFold (shuffle, rs=42)",2.0375,0.9887,2.0751,0.9884,42,7898/1975
+2026-11-05 20:26,E04,Ridge Regression,Kandidat,dasar,alpha=1.0,"5-fold KFold (shuffle, rs=42)",2.0375,0.9887,2.0751,0.9884,42,7898/1975
+2026-11-05 20:26,E05,KNN Regressor,Kandidat,dasar,k=10,"5-fold KFold (shuffle, rs=42)",3.0066,0.9754,2.9457,0.9767,42,7898/1975
+2026-11-05 20:26,E06,Decision Tree,Kandidat,dasar,max_depth=8,"5-fold KFold (shuffle, rs=42)",2.5434,0.9824,2.5733,0.9822,42,7898/1975
+2026-11-05 20:26,E07,Random Forest,Kandidat,dasar,n_estimators=200,"5-fold KFold (shuffle, rs=42)",2.3486,0.985,2.3665,0.985,42,7898/1975
+2026-11-05 20:26,E08,Gradient Boosting,Kandidat,dasar,"n_estimators=100, lr=0.1","5-fold KFold (shuffle, rs=42)",2.1247,0.9877,2.1391,0.9877,42,7898/1975
+2026-11-05 20:26,E09,Linear Regression + FE (interaksi & rasio),Feature eng.,fe,FE-1 + FE-2,"5-fold KFold (shuffle, rs=42)",2.0387,0.9887,2.0746,0.9884,42,7898/1975
+2026-11-05 20:26,E10,Linear Regression + Polinomial derajat 2,Feature eng.,poly2,degree=2,"5-fold KFold (shuffle, rs=42)",2.0404,0.9887,2.0749,0.9884,42,7898/1975
+2026-11-05 20:26,E11,Random Forest + FE (interaksi & rasio),Feature eng.,fe,"n_estimators=200, FE-1 + FE-2","5-fold KFold (shuffle, rs=42)",2.3264,0.9853,2.3376,0.9853,42,7898/1975

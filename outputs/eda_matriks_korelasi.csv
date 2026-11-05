@@ -1,0 +1,7 @@
+,Hours Studied,Previous Scores,Sleep Hours,Sample Question Papers Practiced,Extracurricular Activities,Performance Index
+Hours Studied,1.0,-0.0088,-0.0025,0.0208,0.0041,0.3768
+Previous Scores,-0.0088,1.0,0.0077,-0.0052,0.0076,0.9153
+Sleep Hours,-0.0025,0.0077,1.0,0.0035,-0.025,0.0476
+Sample Question Papers Practiced,0.0208,-0.0052,0.0035,1.0,0.0171,0.0318
+Extracurricular Activities,0.0041,0.0076,-0.025,0.0171,1.0,0.023
+Performance Index,0.3768,0.9153,0.0476,0.0318,0.023,1.0

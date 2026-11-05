@@ -1,0 +1,7 @@
+Dijalankan     : 2026-11-05 20:26
+Python         : 3.13.18 (Linux)
+pandas         : 3.0.5
+numpy          : 2.5.3
+scikit-learn   : 1.9.1
+matplotlib     : 3.11.2
+random_state   : 42
