@@ -7,7 +7,7 @@
 #   pip install -r requirements.txt
 #   python main.py
 #
-# Semua angka, tabel, dan grafik tersimpan di folder "outputs/"
+# Untuk semua angka, tabel, dan grafik tersimpan di folder "outputs/"
 # dan dapat ditelusuri ke bagian kode bernomor di bawah.
 # ============================================================
 
