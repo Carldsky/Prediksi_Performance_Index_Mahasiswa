@@ -12,7 +12,7 @@ Proyek regresi dengan classical machine learning untuk memprediksi **Performance
 ## Struktur folder
 
 ```
-UTS ML/
+Prediksi_Performance_Index_Mahasiswa/
 ├── main.py                    # seluruh eksperimen (bagian 0–13)
 ├── Student_Performance.csv    # dataset
 ├── requirements.txt
