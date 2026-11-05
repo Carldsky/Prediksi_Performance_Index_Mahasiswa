@@ -61,3 +61,4 @@ Waktu eksekusi sekitar 30 detik. Seluruh hasil memakai `random_state = 42`, sehi
 | E09 | Linear Regression + fitur interaksi & rasio | Feature engineering |
 | E10 | Linear Regression + polinomial derajat 2 | Feature engineering |
 | E11 | Random Forest + fitur interaksi & rasio | Feature engineering |
+](https://github.com/Carldsky/Prediksi_Performance_Index_Mahasiswa.git)
