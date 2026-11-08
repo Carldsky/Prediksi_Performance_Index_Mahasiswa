@@ -1,7 +1,7 @@
 ## Project-ID : A04
 ## Nama Kelompok : Performa Mahasiswa
 ## Anggota :
-### Edwin Valentin Tarigan 231111207
+### Edwin Valentino Tarigan 231111207
 ### Steven David Malau 231111408
 ### Eric Chandra 231110581
 
