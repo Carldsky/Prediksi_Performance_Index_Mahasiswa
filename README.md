@@ -1,3 +1,17 @@
+ID : 04
+Nama Kelompok : Performa Mahasiswa
+Anggota : 
+Steven David Malau 231111408
+Edwin Valentin Tarigan 231111207
+Eric Chandra 231110581
+
+Rumusan Masalah : Capaian akademik biasanya baru diketahui setelah ujian, padahal pada saat itu sudah terlambat untuk memberi pendampingan. Data seperti jam belajar, nilai sebelumnya, jam tidur, dan jumlah latihan soal sebenarnya sudah tersedia lebih awal. Pertanyaannya adalah seberapa akurat data tersebut dapat dipakai untuk memperkirakan capaian akhir.
+
+Tujuan Proyek : 
+1.	Membangun model regresi yang galat prediksinya lebih kecil secara bermakna daripada baseline.
+2.	Mengidentifikasi fitur yang paling berpengaruh terhadap Performance Index.
+3.	Menyiapkan alur eksperimen yang dapat direproduksi sebagai dasar final project UAS.
+
 # Milestone 1 (UTS) – Prediksi Performance Index Mahasiswa
 
 Proyek regresi dengan classical machine learning untuk memprediksi **Performance Index** (skala 10–100) dari kebiasaan belajar mahasiswa.
