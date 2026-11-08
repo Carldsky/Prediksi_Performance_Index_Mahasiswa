@@ -1,9 +1,9 @@
-- ID : 04
-- Nama Kelompok : Performa Mahasiswa
-- Anggota : 
-- Steven David Malau 231111408
-- Edwin Valentin Tarigan 231111207
-- Eric Chandra 231110581
+ID : 04
+Nama Kelompok : Performa Mahasiswa
+Anggota : 
+Steven David Malau 231111408
+Edwin Valentin Tarigan 231111207
+Eric Chandra 231110581
 
 Rumusan Masalah : Capaian akademik biasanya baru diketahui setelah ujian, padahal pada saat itu sudah terlambat untuk memberi pendampingan. Data seperti jam belajar, nilai sebelumnya, jam tidur, dan jumlah latihan soal sebenarnya sudah tersedia lebih awal. Pertanyaannya adalah seberapa akurat data tersebut dapat dipakai untuk memperkirakan capaian akhir.
 
