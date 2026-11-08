@@ -21,7 +21,7 @@ Proyek regresi dengan classical machine learning untuk memprediksi **Performance
 - Nama: Student Performance (Multiple Linear Regression)
 - Sumber: https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
 - File: `Student_Performance.csv` (10.000 baris, 6 kolom)
-- Jika file tidak disertakan, unduh dari tautan di atas lalu letakkan di folder yang sama dengan `main.py`.
+- Jika file tidak disertakan, unduh dari tautan di atas lalu letakkan di folder yang sama dengan `main.ipynb`.
 
 ## Struktur folder
 
@@ -31,7 +31,7 @@ Prediksi_Performance_Index_Mahasiswa/
 ├── Student_Performance.csv    # dataset
 ├── requirements.txt
 ├── README.md
-└── outputs/                   # dibuat otomatis saat main.py dijalankan
+└── outputs/                   # dibuat otomatis saat main.ipynb dijalankan
     ├── figures/               # 9 grafik EDA dan evaluasi
     ├── tabel_hasil_eksperimen.csv
     ├── log_eksperimen.csv
@@ -42,14 +42,14 @@ Prediksi_Performance_Index_Mahasiswa/
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python main.ipynb
 ```
 
 Waktu eksekusi sekitar 30 detik. Seluruh hasil memakai `random_state = 42`, sehingga angka akan sama setiap kali dijalankan dengan versi library yang sama (lihat `outputs/versi_lingkungan.txt`).
 
 ## Pemetaan laporan ke kode dan artefak
 
-| Bagian laporan | Bagian di `main.py` | Artefak di `outputs/` |
+| Bagian laporan | Bagian di `main.ipynb` | Artefak di `outputs/` |
 |---|---|---|
 | B. Dataset & data understanding | 1, 2 | `ringkasan_kualitas_data.csv`, `cek_rentang_nilai.csv` |
 | C. EDA | 4 | `eda_*.csv`, `figures/01`–`06` |
